@@ -9,8 +9,6 @@ This project focuses on analyzing avocado prices across different regions in the
 - [Analysis](#analysis)
 - [Models](#models)
 - [Results](#results)
-- [How to Run](#how-to-run)
-- [Dependencies](#dependencies)
 
 ## Introduction
 Avocados are a popular fruit in the United States, and their prices vary significantly across regions and time. This project aims to:
