@@ -47,9 +47,3 @@ The project uses the following models for forecasting:
 ## Results
 - Regional differences in avocado prices were identified, with California having the highest average prices.
 - Time series models provided accurate forecasts for short-term price trends.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/avocado-prices.git
-   cd avocado-prices
